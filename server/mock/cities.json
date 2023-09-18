@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Worland",
+      "emoji": "🇺🇸",
+      "date": "2023-09-17T08:14:05.473Z",
+      "notes": "",
+      "position": {
+        "lat": 43.83452678223684,
+        "lng": -107.6220703125
+      },
+      "country": "United States of America",
+      "id": 98443198
+    },
+    {
+      "cityName": "Rock Springs South",
+      "emoji": "🇺🇸",
+      "date": "2023-09-17T08:14:14.719Z",
+      "notes": "",
+      "position": {
+        "lat": 41.0130657870063,
+        "lng": -109.5556640625
+      },
+      "country": "United States of America",
+      "id": 98443199
+    },
+    {
+      "cityName": "Bonnetable",
+      "emoji": "🇫🇷",
+      "date": "2023-09-17T09:53:43.619Z",
+      "notes": "",
+      "position": {
+        "lat": 48.180738507303836,
+        "lng": 0.41748046875
+      },
+      "country": "France",
+      "id": 98443200
+    },
+    {
+      "cityName": "Villanueva de San Carlos",
+      "emoji": "🇪🇸",
+      "date": "2023-09-18T02:08:08.020Z",
+      "notes": "",
+      "position": {
+        "lat": 38.58252615935333,
+        "lng": -3.9111328125
+      },
+      "country": "Spain",
+      "id": 98443201
+    },
+    {
+      "cityName": "Montijo",
+      "emoji": "🇪🇸",
+      "date": "2023-09-18T02:14:41.954Z",
+      "notes": "",
+      "position": {
+        "lat": 39.027718840211605,
+        "lng": -6.591796875
+      },
+      "country": "Spain",
+      "id": 98443202
+    },
+    {
+      "cityName": "Fanzara",
+      "emoji": "🇪🇸",
+      "date": "2023-09-18T02:21:48.622Z",
+      "notes": "",
+      "position": {
+        "lat": 40.01604611654875,
+        "lng": -0.32855987548828125
+      },
+      "country": "Spain",
+      "id": 98443203
+    }
+  ]
+}
